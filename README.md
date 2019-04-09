@@ -9,4 +9,4 @@ The example folder includes:
 All examples require a valid API Key, you can get yours at TF2Keys.net/settings.
 
 # Documentation
-See the Wiki for the documentation.
+See the [Wiki](https://github.com/SnaBe/node-tf2keys-api/wiki) for the documentation.
