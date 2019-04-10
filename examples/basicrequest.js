@@ -16,17 +16,17 @@ API.all((err, res, data) => {
     //Some error occurred during your request
     console.log(err)
   } else {
-  	//Do something with the price data
+    //Do something with the price data
     console.log(data);
-  	//Save the data
-  	API.save(data, (err, status) => {
-  	  if(err) {
+    //Save the data
+    API.save(data, (err, status) => {
+      if(err) {
         //Some error saving the data
         console.log(err);
-  	  } else {
+      } else {
         //Log the display
         console.log(status);
-  	  }
-  	});
+      }
+    });
   }
 });
