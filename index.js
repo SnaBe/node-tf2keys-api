@@ -14,7 +14,7 @@ function API(options) {
   //The users API Key
   this.apiKey = options.apiKey;
   //The default directory to save files
-  this.dataDirectory = '../';
+  this.dataDirectory = './';
   //Optional settings 
   this.options = options || {};
 }
