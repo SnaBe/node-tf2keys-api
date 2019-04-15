@@ -1,5 +1,8 @@
 # tf2keys-api
 
+[![npm version](https://img.shields.io/npm/v/tf2keys-api.svg)](https://npmjs.com/package/tf2keys-api)
+[![npm downloads](https://img.shields.io/npm/dm/tf2keys-api.svg)](https://npmjs.com/package/tf2keys-api)
+
 The [API](http://tf2keys.net/api) is built to be as self-documenting as possible, but if you find yourself overwhelmed, we've created this [module](https://www.npmjs.com/package/tf2keys-api) & repository to make it easier for you to interact with [TF2Keys.net](http://tf2keys.net) and the price requesting aspect of its API.
  
 The example folder includes: 
