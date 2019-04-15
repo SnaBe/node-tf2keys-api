@@ -11,15 +11,15 @@ var API = new tf2api({
 });
 
 //All methods (Get all available price data)
-API.all((err, res, data) => {
+API.getAllItems((err, res, data) => {
   if(err) {
     //Some error occurred during your request
-    console.log(err)
+    console.log(err);
   } else {
     //Do something with the price data
     console.log(data);
     //Save the data
-    API.save(data, (err, status) => {
+    API.saveData(data, (err, status) => {
       if(err) {
         //Some error saving the data
         console.log(err);
