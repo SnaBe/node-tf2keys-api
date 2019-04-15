@@ -1,0 +1,62 @@
+{
+  "Mann Co. Supply Crate Key": {
+    "buy": {
+      "keys": 0,
+      "refined": 46.44
+    },
+    "sell": {
+      "keys": 0,
+      "refined": 46.66
+    }
+  },
+  "Earbuds": {
+    "buy": {
+      "keys": 2,
+      "refined": 38.77
+    },
+    "sell": {
+      "keys": 2,
+      "refined": 39
+    }
+  },
+  "Max's Severed Head": {
+    "buy": {
+      "keys": 21,
+      "refined": 4.44
+    },
+    "sell": {
+      "keys": 21,
+      "refined": 25.44
+    }
+  },
+  "Bill's Hat": {
+    "buy": {
+      "keys": 1,
+      "refined": 42.44
+    },
+    "sell": {
+      "keys": 1,
+      "refined": 43
+    }
+  },
+  "Tour of Duty Ticket": {
+    "buy": {
+      "keys": 0,
+      "refined": 22.55
+    },
+    "sell": {
+      "keys": 0,
+      "refined": 22.66
+    }
+  },
+  "The Hardy Laurel": {
+    "buy": {
+      "keys": 0,
+      "refined": 2.66
+    },
+    "sell": {
+      "keys": 0,
+      "refined": 3.11
+    }
+  }
+}
