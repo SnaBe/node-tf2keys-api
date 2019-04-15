@@ -1,7 +1,7 @@
 # tf2keys-api
-[![npm version](https://img.shields.io/npm/v/steam-user.svg)](https://npmjs.com/package/tf2keys-api)
-[![npm downloads](https://img.shields.io/npm/dm/steam-user.svg)](https://npmjs.com/package/tf2keys-api)
-[![dependencies](https://img.shields.io/david/DoctorMcKay/node-steam-user.svg)](https://david-dm.org/SnaBe/node-tf2keys-api)
+[![npm version](https://img.shields.io/npm/v/tf2keys-api.svg)](https://npmjs.com/package/tf2keys-api)
+[![npm downloads](https://img.shields.io/npm/dm/tf2keys-api.svg)](https://npmjs.com/package/tf2keys-api)
+[![dependencies](https://img.shields.io/david/SnaBe/node-tf2keys-api.svg)](https://david-dm.org/SnaBe/node-tf2keys-api)
 [![license](https://img.shields.io/npm/l/steam-user.svg)](https://github.com/SnaBe/node-tf2keys-api/blob/master/LICENSE)
 [![paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/snabe)
 
