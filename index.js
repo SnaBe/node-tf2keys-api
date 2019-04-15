@@ -8,8 +8,6 @@ module.exports = API;
  * @param {object} options
  */
 
-//Tilføje events måske?
-
 function API(options) {
   //The users API Key
   this.apiKey = options.apiKey;
