@@ -1,6 +1,9 @@
 # tf2keys-api
-[![npm version](https://npmjs.com/package/tf2keys-api)
-[![npm downloads](https://npmjs.com/package/tf2keys-api)
+[![npm version](https://img.shields.io/npm/v/steam-user.svg)](https://npmjs.com/package/tf2keys-api)
+[![npm downloads](https://img.shields.io/npm/dm/steam-user.svg)](https://npmjs.com/package/tf2keys-api)
+[![dependencies](https://img.shields.io/david/DoctorMcKay/node-steam-user.svg)](https://david-dm.org/SnaBe/node-tf2keys-api)
+[![license](https://img.shields.io/npm/l/steam-user.svg)](https://github.com/SnaBe/node-tf2keys-api/blob/master/LICENSE)
+[![paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/snabe)
 
 **Have a question about the module or coding in general? *Do not create a GitHub issue.* GitHub issues are for feature requests and bug reports. Instead, send an email to support@tf2keys.net. Such issues may be ignored!**
 
