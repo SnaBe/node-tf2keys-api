@@ -5,7 +5,7 @@
 [![license](https://img.shields.io/npm/l/tf2keys-api.svg)](https://github.com/SnaBe/node-tf2keys-api/blob/master/LICENSE)
 [![paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/snabe)
 
-**Important note: TF2Keys.net is still under development and the API is therefore currently unavaible. Hence why the module returns an error when requesting prices. I've only made the module public for reporting errors & requesting features.**
+**_Important note: TF2Keys.net is still under development and the API is therefore currently unavaible. Hence why the module returns an error when requesting prices. I've only made the module public for reporting errors & requesting features._**
 
 **Have a question about the module or programming in general? *Do not create a GitHub issue.* GitHub issues are for feature requests and bug reports. Instead, send an email to support@tf2keys.net. Such issues may be ignored!**
 
