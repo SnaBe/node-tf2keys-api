@@ -1,7 +1,6 @@
 'use strict';
 
-const async = require('async');
-
+//Export the API module
 module.exports = API;
 
 /**
@@ -17,12 +16,14 @@ function API(options) {
   this.dataDirectory = './';
   //Optional settings 
   this.options = options || {};
-  //Ready 
+  //Empty key
   if(!this.apiKey) {
     console.log('Error: You can\'t leave your API Key empty, exiting.');
+    //Exit
     process.exit(1);
   }
 }
 
+//Require some self written libraries
 require('./lib/requests.js');
 require('./lib/saving.js');
