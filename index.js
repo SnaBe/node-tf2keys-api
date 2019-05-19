@@ -1,5 +1,7 @@
 'use strict';
 
+const async = require('async');
+
 module.exports = API;
 
 /**
@@ -15,6 +17,11 @@ function API(options) {
   this.dataDirectory = './';
   //Optional settings 
   this.options = options || {};
+  //Ready 
+  if(!this.apiKey) {
+    console.log('Error: You can\'t leave your API Key empty, exiting.');
+    process.exit(1);
+  }
 }
 
 require('./lib/requests.js');
