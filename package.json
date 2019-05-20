@@ -1,12 +1,17 @@
 {
   "name": "tf2keys-api",
-  "version": "1.1.4",
+  "version": "1.1.8",
   "description": "Interact with TF2Keys.net and the price requesting aspect of its API.",
   "main": "index.js",
   "directories": {
     "example": "examples",
     "lib": "lib"
   },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,23 +22,17 @@
   "keywords": [
     "tf2keys",
     "tf2",
-    "api",
     "item",
     "items",
     "price",
-    "prices",
-    "trade",
-    "bot"
+    "api",
+    "bot",
+    "trading"
   ],
   "author": "Simon S. Sørensen",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SnaBe/node-tf2keys-api/issues"
   },
-  "homepage": "https://github.com/SnaBe/node-tf2keys-api#readme",
-  "dependencies": {
-    "fs": "0.0.1-security",
-    "npm": "^6.9.0",
-    "request": "^2.88.0"
-  }
+  "homepage": "https://github.com/SnaBe/node-tf2keys-api#readme"
 }
