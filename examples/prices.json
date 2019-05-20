@@ -2,21 +2,21 @@
   "Mann Co. Supply Crate Key": {
     "buy": {
       "keys": 0,
-      "refined": 46.44
+      "refined": 47.55
     },
     "sell": {
       "keys": 0,
-      "refined": 46.66
+      "refined": 47.77
     }
   },
   "Earbuds": {
     "buy": {
       "keys": 2,
-      "refined": 38.77
+      "refined": 29.55
     },
     "sell": {
       "keys": 2,
-      "refined": 39
+      "refined": 33.22
     }
   },
   "Max's Severed Head": {
@@ -32,11 +32,11 @@
   "Bill's Hat": {
     "buy": {
       "keys": 1,
-      "refined": 42.44
+      "refined": 40.55
     },
     "sell": {
       "keys": 1,
-      "refined": 43
+      "refined": 40.77
     }
   },
   "Tour of Duty Ticket": {
@@ -57,6 +57,106 @@
     "sell": {
       "keys": 0,
       "refined": 3.11
+    }
+  },
+  "The Egghead's Overalls": {
+    "buy": {
+      "keys": 0,
+      "refined": 4.44
+    },
+    "sell": {
+      "keys": 0,
+      "refined": 4.66
+    }
+  },
+  "Strange Jarate": {
+    "buy": {
+      "keys": 0,
+      "refined": 3
+    },
+    "sell": {
+      "keys": 0,
+      "refined": 3.33
+    }
+  },
+  "Strange Battery Canteens": {
+    "buy": {
+      "keys": 2,
+      "refined": 25
+    },
+    "sell": {
+      "keys": 3,
+      "refined": 16
+    }
+  },
+  "Batter's Helmet": {
+    "buy": {
+      "keys": 0,
+      "refined": 22.88
+    },
+    "sell": {
+      "keys": 0,
+      "refined": 27.22
+    }
+  },
+  "Vintage Batter's Helmet": {
+    "buy": {
+      "keys": 0,
+      "refined": 30.33
+    },
+    "sell": {
+      "keys": 1,
+      "refined": 4
+    }
+  },
+  "Baseball Bill's Sports Shine": {
+    "buy": {
+      "keys": 0,
+      "refined": 1.22
+    },
+    "sell": {
+      "keys": 0,
+      "refined": 1.33
+    }
+  },
+  "Vintage Baseball Bill's Sports Shine": {
+    "buy": {
+      "keys": 0,
+      "refined": 34
+    },
+    "sell": {
+      "keys": 0,
+      "refined": 44.66
+    }
+  },
+  "Strange Baseball Bill's Sports Shine": {
+    "buy": {
+      "keys": 0,
+      "refined": 46.77
+    },
+    "sell": {
+      "keys": 1,
+      "refined": 12
+    }
+  },
+  "Non-Craftable Batter's Helmet": {
+    "buy": {
+      "keys": 0,
+      "refined": 2.22
+    },
+    "sell": {
+      "keys": 0,
+      "refined": 4.66
+    }
+  },
+  "Non-Craftable Baseball Bill's Sports Shine": {
+    "buy": {
+      "keys": 0,
+      "refined": 1.55
+    },
+    "sell": {
+      "keys": 0,
+      "refined": 1.77
     }
   }
 }
