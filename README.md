@@ -6,8 +6,6 @@
 [![license](https://img.shields.io/npm/l/tf2keys-api.svg)](https://github.com/SnaBe/node-tf2keys-api/blob/master/LICENSE)
 [![paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/snabe)
 
-**_Important note: TF2Keys.net is still under development and a lot of the APIs functionality is therefore currently unavaible. I've deployed a test server running the API, it does work as intended, but has a limited item list. Hence the module returns an error when requesting some item prices. I've only made the module public for reporting errors, requesting features & testing the server's limits. For testing purposes I've disabled the need of an valid API Key, just parse a random string._**
-
 The [API](http://tf2keys.net/api) is built to be as self-documenting as possible, but if you find yourself overwhelmed, we've created this [module](https://www.npmjs.com/package/tf2keys-api) & repository to make it easier for you to interact with [TF2Keys.net](http://tf2keys.net) and the price requesting aspect of its API.
 
 **Have a question about the module or programming in general? *Do not create a GitHub issue.* GitHub issues are for feature requests and bug reports. Instead, send an email to support@tf2keys.net. Such issues may be ignored!**
